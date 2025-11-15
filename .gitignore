@@ -1,0 +1,17 @@
+# Arquivos de áudio (muito grandes)
+*.mp3
+*.wav
+*.mp4
+
+# PDFs muito grandes
+*.pdf
+
+# Arquivos temporários
+*.tmp
+*.log
+*~
+
+# Diretórios do sistema
+.DS_Store
+__pycache__/
+*.pyc

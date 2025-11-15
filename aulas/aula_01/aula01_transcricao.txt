@@ -1,0 +1,337 @@
+Starting Speech-to-Text conversion...
+Transcribing audio file: /home/ubuntu/aula01_bioquimica.mp3, file size: 11.73 MB
+Transcription may take some time depending on file size and audio length...
+Transcription completed successfully!
+
+TRANSCRIPTION RESULT:
+Total Duration: 1349.0 seconds
+Language: portuguese
+Timestamped segments:
+[00:000.0 - 00:016.0]  Música
+[00:016.0 - 00:021.0]  Meu nome é Nádia, eu sou do Departamento de Bioquímica e eu vou ser a professora de vocês
+[00:021.0 - 00:024.0]  juntamente com a professora Maria Tereza nessa disciplina.
+[00:024.0 - 00:028.0]  E essa disciplina se chama Introdução à Bioquímica.
+[00:028.0 - 00:032.0]  Então, hoje a gente vai começar, na verdade eu vou começar falando para vocês
+[00:032.0 - 00:036.0]  porque que essa disciplina se chama Introdução à Bioquímica e o que é bioquímica.
+[00:036.0 - 00:039.0]  Vocês nunca escutaram falar sobre bioquímica.
+[00:039.0 - 00:046.0]  E o que a gente vai fazer nessa disciplina é contextualizar vários conceitos
+[00:046.0 - 00:053.0]  que são necessários para que vocês entendam metabolismo, regulação e biologia molecular
+[00:053.0 - 00:059.0]  que vocês vão estudar quando vocês forem fazer bioquímica e biologia molecular.
+[00:059.0 - 01:007.0]  Então, alguns dos tópicos das aulas vão parecer um pouco sem sentido
+[01:007.0 - 01:010.0]  e vão parecer desconectados uns dos outros.
+[01:010.0 - 01:014.0]  E na verdade eles até são um pouco desconectados uns dos outros.
+[01:014.0 - 01:019.0]  Mas eles apresentam em cada uma das aulas, a gente vai apresentar conceitos
+[01:019.0 - 01:024.0]  que são necessários para que vocês entendam o que vocês forem estudar
+[01:024.0 - 01:027.0]  quando vocês forem estudar estrutura de biomoléculas,
+[01:027.0 - 01:030.0]  quando vocês forem estudar metabolismo, regulação
+[01:030.0 - 01:034.0]  e tudo que vocês vão estudar nas próximas disciplinas de bioquímica.
+[01:034.0 - 01:040.0]  Essa primeira aula, na verdade, a gente vai discutir alguns conceitos
+[01:040.0 - 01:044.0]  que são importantes para a gente pensar em sistemas biológicos.
+[01:045.0 - 01:050.0]  Então, o título da aula, que eu acho que representa muito bem
+[01:050.0 - 01:055.0]  o que essa disciplina é, é Sistemas Biológicos e a Química de Biomoléculas.
+[01:055.0 - 02:002.0]  E eu gosto de começar com duas quotes que eu tirei de um livro
+[02:002.0 - 02:005.0]  que chama Leninger Principles of Biochemistry.
+[02:005.0 - 02:010.0]  Aqui estão os autores e, aliás, a maior parte dessa aula
+[02:010.0 - 02:015.0]  utilizou esse livro como referência, do capítulo 1,
+[02:015.0 - 02:021.0]  que eu acho que explica muito bem o que é a intersecção entre química e biologia
+[02:021.0 - 02:023.0]  que a gente chama de bioquímica.
+[02:023.0 - 02:028.0]  Então ele fala assim, com a célula, a biologia descobriu o seu átomo.
+[02:028.0 - 02:033.0]  O que é átomo, gente? Qual é a origem da palavra átomo? Alguém sabe?
+[02:033.0 - 02:035.0]  Indivisível.
+[02:036.0 - 02:043.0]  Então a célula é o átomo da biologia, é a menor unidade existente.
+[02:044.0 - 02:049.0]  Para caracterizar a vida, é, portanto, necessário estudar a célula
+[02:049.0 - 02:051.0]  e analisar a sua estrutura.
+[02:052.0 - 02:058.0]  Identificar o denominador comum necessário para a vida de cada célula
+[02:058.0 - 03:003.0]  ou, alternativamente, identificar as diferenças associadas
+[03:003.0 - 03:006.0]  a uma performance de funções especiais.
+[03:006.0 - 03:013.0]  Quem disse isso foi o Francois Jacob, que era francês, eu pronunciei errado.
+[03:013.0 - 03:017.0]  Quando ele estava contando a história da hereditariedade,
+[03:017.0 - 03:022.0]  ele esteve envolvido em identificar o código genético e muitas outras coisas.
+[03:022.0 - 03:027.0]  Então ele era um biólogo molecular muito importante.
+[03:027.0 - 03:030.0]  E eu gosto também muito dessa frase do Darwin, que fala
+[03:030.0 - 03:036.0]  Nós devemos, entretanto, reconhecer que, ao que me parece,
+[03:036.0 - 03:040.0]  apesar de todas as qualidades mais nobres do homem,
+[03:040.0 - 03:049.0]  a gente ainda carrega no nosso corpo a estampa da sua origem simples,
+[03:049.0 - 03:051.0]  da sua baixa origem.
+[03:051.0 - 03:054.0]  E o que o Darwin queria dizer com isso?
+[03:054.0 - 03:057.0]  O Darwin queria dizer com isso que, na verdade,
+[03:057.0 - 04:000.0]  não existem diferenças do ponto de vista molecular,
+[04:000.0 - 04:003.0]  claro que ele não pensava em ponto de vista molecular,
+[04:003.0 - 04:006.0]  mas do ponto de vista molecular não existem diferenças significativas
+[04:006.0 - 04:010.0]  entre sistemas biológicos e sistemas não biológicos,
+[04:010.0 - 04:014.0]  a não ser algumas particularidades.
+[04:014.0 - 04:016.0]  E o que são essas particularidades?
+[04:016.0 - 04:020.0]  Então o que a bioquímica tenta fazer?
+[04:020.0 - 04:025.0]  A bioquímica tenta descrever em termos moleculares
+[04:025.0 - 04:029.0]  as estruturas, mecanismos, processos químicos
+[04:029.0 - 04:032.0]  compartilhados por todos os organismos vivos
+[04:032.0 - 04:037.0]  e propõe princípios organizatórios que são comuns
+[04:037.0 - 04:040.0]  a todas as distintas formas de vida.
+[04:040.0 - 04:044.0]  Então a bioquímica tenta entender como que a vida funciona
+[04:044.0 - 04:047.0]  do ponto de vista molecular.
+[04:047.0 - 04:051.0]  Então, se nós estamos interessados em sistemas vivos,
+[04:051.0 - 04:054.0]  como definimos esses sistemas?
+[04:054.0 - 04:058.0]  Então a gente tem que ter algum conjunto de características
+[04:058.0 - 05:002.0]  que a gente aplica para um sistema desconhecido
+[05:002.0 - 05:006.0]  e se esses conjuntos de características forem preenchidos,
+[05:006.0 - 05:011.0]  a gente define esse sistema desconhecido como um ser vivo.
+[05:011.0 - 05:014.0]  E quais são essas características?
+[05:014.0 - 05:018.0]  Eles apresentam, obrigatoriamente,
+[05:018.0 - 05:023.0]  um alto grau de complexidade química e organização estrutural.
+[05:023.0 - 05:029.0]  Eles apresentam algum sistema para extrair e converter energia do ambiente.
+[05:029.0 - 05:034.0]  Eles apresentam uma capacidade para autorreplicação e automontagem
+[05:034.0 - 05:037.0]  de uma maneira fiel.
+[05:037.0 - 05:042.0]  Eles têm mecanismos para perceber e responder alterações no ambiente
+[05:042.0 - 05:049.0]  e funções definidas para cada componente e interações reguladas entre eles.
+[05:049.0 - 05:052.0]  Então você está vendo que a gente está indo cada vez mais
+[05:052.0 - 05:056.0]  em grau de complexidade molecular e funcional.
+[05:056.0 - 06:002.0]  E, por último, eles têm que apresentar uma história de mudança evolutiva.
+[06:002.0 - 06:007.0]  Eles têm que ter inter-relações evolutivas.
+[06:007.0 - 06:015.0]  Então, o Jacob já tinha colocado que a célula era o átomo da biologia.
+[06:015.0 - 06:020.0]  Então, a célula é a menor unidade de um organismo vivo
+[06:020.0 - 06:025.0]  e a maioria, a grande maioria dos organismos vivos são organismos celulares.
+[06:025.0 - 06:028.0]  Um ponto importante em bioquímica, em biologia,
+[06:028.0 - 06:034.0]  é que quase todas as regras têm exceções, obviamente.
+[06:034.0 - 06:037.0]  Com exceção dessa.
+[06:037.0 - 06:042.0]  E nem todos os organismos vivos são celulares.
+[06:042.0 - 06:046.0]  Vocês conseguem me dizer algum organismo vivo que não é celular?
+[06:046.0 - 06:049.0]  Os vírus, muito bem. Passaram no vestibular.
+[06:051.0 - 07:000.0]  Os vírus, até muito recentemente, não eram classificados como um filo de organismo vivo.
+[07:000.0 - 07:006.0]  Porque, na verdade, os vírus não preenchem todas essas características.
+[07:006.0 - 07:011.0]  Mas, recentemente, alguns vírus específicos foram descobertos
+[07:011.0 - 07:019.0]  que têm características que preenchem essas.
+[07:019.0 - 07:027.0]  E que as novas propostas de filogenia incluem os vírus como o quarto filo de organismos vivos.
+[07:027.0 - 07:031.0]  Bom, então, a célula é a unidade básica
+[07:031.0 - 07:035.0]  e as células, em geral, têm cara muito parecida uma com a outra.
+[07:035.0 - 07:039.0]  Então, as células, a maior parte das células que a gente conhece
+[07:039.0 - 07:043.0]  têm diâmetros entre 5 e 100 nanômetros.
+[07:043.0 - 07:048.0]  Ou seja, a maioria delas são invisíveis a olho nu.
+[07:048.0 - 07:054.0]  Existem algumas células que são visíveis a olho nu, mas são bastante limitadas.
+[07:054.0 - 08:002.0]  Todas as células que a gente conhece têm algumas estruturas comuns.
+[08:002.0 - 08:006.0]  E essas algumas estruturas comuns são
+[08:006.0 - 08:010.0]  uma região que pode ser delimitada ou não,
+[08:010.0 - 08:014.0]  na qual o material genético está organizado.
+[08:014.0 - 08:019.0]  Tem algumas estruturas que a gente chama de supramoleculares
+[08:019.0 - 08:023.0]  ou organelas. Por que elas são chamadas de supramoleculares?
+[08:023.0 - 08:027.0]  Porque elas são agregados proteicos de massa molar,
+[08:027.0 - 08:032.0]  se a gente for calcular a massa molar do agregado todo, muito grande.
+[08:032.0 - 08:037.0]  Então, essas estruturas podem ser organelas quando elas têm membranas
+[08:037.0 - 08:043.0]  ou podem não ter membranas, mas que têm função definida,
+[08:043.0 - 08:046.0]  que têm estrutura e função definida.
+[08:046.0 - 08:055.0]  E uma região, uma solução, que é mais um gel do que uma solução,
+[08:055.0 - 08:059.0]  que onde tudo isso está imerso, que a gente chama de citosol,
+[08:059.0 - 09:002.0]  que é composto de íons, pequenas moléculas,
+[09:002.0 - 09:005.0]  a gente vai olhar isso um pouco adiante na disciplina.
+[09:005.0 - 09:008.0]  Então, essa estrutura é a estrutura comum,
+[09:008.0 - 09:013.0]  mas é claro que a gente sabe, só de olhar o mundo à nossa volta,
+[09:013.0 - 09:019.0]  que nem todos os organismos são iguais, aliás, a variedade de organismos é absurda,
+[09:019.0 - 09:022.0]  e nem todas as células, obviamente, são iguais,
+[09:022.0 - 09:028.0]  apesar delas manterem uma organização básica muito parecida.
+[09:029.0 - 09:033.0]  Então, todos os organismos celulares são classificados em filos,
+[09:033.0 - 09:037.0]  de acordo com características comuns.
+[09:037.0 - 09:044.0]  E toda a vida na Terra é organizada em três grandes filos.
+[09:044.0 - 09:050.0]  Os filos de eubactéria, ou bactérias,
+[09:050.0 - 09:054.0]  os arqueas, que são as arqueobactérias,
+[09:054.0 - 09:056.0]  e os eucariotos.
+[09:056.0 - 10:001.0]  E esses dois têm uma diferença muito fundamental desse outro filo,
+[10:001.0 - 10:005.0]  que esses dois englobam organismos procarióticos,
+[10:005.0 - 10:009.0]  ou seja, que não têm núcleo, que não têm um material genético
+[10:009.0 - 10:011.0]  envolto numa membrana.
+[10:011.0 - 10:015.0]  Todos os eucariotos têm um material genético envolto numa membrana,
+[10:015.0 - 10:017.0]  ou seja, têm núcleo.
+[10:019.0 - 10:022.0]  Em relação ao número de espécies, a gente está aqui,
+[10:022.0 - 10:024.0]  a gente está aqui, nessa pontinha.
+[10:024.0 - 10:027.0]  Se isso aqui fosse dividindo muito mais,
+[10:027.0 - 10:029.0]  a gente já estaria mais lá naquela pontinha.
+[10:029.0 - 10:031.0]  A gente se acha tão especial que a gente se coloca
+[10:031.0 - 10:035.0]  na mais alta pontinha de qualquer escala.
+[10:035.0 - 10:037.0]  Então, a gente está aqui.
+[10:037.0 - 10:042.0]  Em número de espécies, apesar desse círculo roxinho aqui
+[10:042.0 - 10:046.0]  ser maior que os outros, esse círculo roxinho é muito menor
+[10:046.0 - 10:049.0]  em número do que esses dois.
+[10:049.0 - 10:054.0]  O número de bactérias, só de algumas famílias de bactérias,
+[10:054.0 - 10:057.0]  é cerca de mil vezes maior do que o número de todos os eucariotos
+[10:057.0 - 10:059.0]  que a gente conhece.
+[10:059.0 - 11:004.0]  Arqueas, a gente nem separava os arqueas até cerca de
+[11:004.0 - 11:007.0]  alguns, sei lá, algumas décadas atrás.
+[11:007.0 - 11:010.0]  E o número de arqueas que a gente conhece
+[11:010.0 - 11:013.0]  cresce com uma velocidade, que os cientistas descobrem,
+[11:013.0 - 11:016.0]  cresce com uma velocidade enorme.
+[11:016.0 - 11:021.0]  Em massa, se a gente fosse olhar para a massa na Terra,
+[11:021.0 - 11:026.0]  representada por organismos procariotos em relação aos eucariotos,
+[11:026.0 - 11:030.0]  a gente ia se sentir infinitamente diminuído,
+[11:030.0 - 11:034.0]  porque cerca de 80% da massa viva é de bactérias.
+[11:034.0 - 11:041.0]  Então, apesar de os organismos superiores na nossa classificação
+[11:041.0 - 11:045.0]  estarem colocados todos no filo dos eucariotos,
+[11:045.0 - 11:051.0]  predominantemente a biodiversidade na Terra está nesses dois filos.
+[11:051.0 - 11:053.0]  Tudo bem?
+[11:053.0 - 11:054.0]  Então vamos lá.
+[11:054.0 - 11:057.0]  Então, vamos dar uma olhadinha nas células.
+[11:057.0 - 12:000.0]  As células são compostas de estruturas complexas.
+[12:000.0 - 12:003.0]  Então, isso aqui é uma foto de uma célula animal,
+[12:003.0 - 12:005.0]  isso aqui é uma célula vegetal.
+[12:005.0 - 12:009.0]  Então, eu não vou nem querer que vocês leiam tudo o que está escrito aqui,
+[12:009.0 - 12:011.0]  porque é um monte de coisinha.
+[12:011.0 - 12:014.0]  Mas esse monte de flechinhas já não mostra para a gente
+[12:014.0 - 12:015.0]  que isso aqui é complexo.
+[12:015.0 - 12:017.0]  Tem um monte de estrutura diferente.
+[12:017.0 - 12:022.0]  Tem núcleo, tem mitocôndria, tem golge, vocês já estudaram isso no colegial.
+[12:022.0 - 12:024.0]  Tem um monte de organela para lembrar o nome,
+[12:024.0 - 12:027.0]  cada uma tem um monte de atividades.
+[12:027.0 - 12:030.0]  Então, imagina isso do ponto de vista molecular,
+[12:030.0 - 12:033.0]  isso é bastante complicado.
+[12:033.0 - 12:036.0]  Só que se a gente começar a decompor essas estruturas,
+[12:036.0 - 12:040.0]  então se a gente, por exemplo, olhar para o núcleo de uma célula
+[12:040.0 - 12:045.0]  e a gente começar a diminuir o nosso ângulo de visão,
+[12:045.0 - 12:050.0]  a gente vai ver que o núcleo é cheio de cromossomos.
+[12:050.0 - 12:056.0]  Os cromossomos são estruturas que são compostas por DNA.
+[12:056.0 - 13:001.0]  E o DNA é um polímero que é composto por nucleotídeos.
+[13:001.0 - 13:003.0]  Então, está muito ruim de ver aqui,
+[13:003.0 - 13:008.0]  mas vocês como químicos já conseguem olhar para isso aqui
+[13:008.0 - 13:011.0]  e ver que isso aqui não é uma molécula tão complexa.
+[13:011.0 - 13:013.0]  É uma molécula pequena.
+[13:013.0 - 13:017.0]  Isso aqui é um açúcar, isso aqui é uma base que só tem um ciclo,
+[13:017.0 - 13:020.0]  isso aqui são três fosfatos.
+[13:020.0 - 13:026.0]  Então, do ponto de vista molecular, do ponto de vista químico,
+[13:026.0 - 13:031.0]  os componentes dos ácidos nucleicos são simples.
+[13:031.0 - 13:035.0]  Se a gente for olhar para as outras estruturas que não o núcleo,
+[13:035.0 - 13:037.0]  a gente vai achar um monte de proteínas.
+[13:037.0 - 13:042.0]  Essas estruturas são compostas de lipídios e de proteínas,
+[13:042.0 - 13:044.0]  que são moléculas grandes.
+[13:044.0 - 13:050.0]  Tem proteínas que têm massa molar da ordem de 400 mil Daltons.
+[13:050.0 - 13:052.0]  São moléculas bastante grandes.
+[13:052.0 - 13:056.0]  Só que todas as proteínas conhecidas
+[13:056.0 - 14:000.0]  são compostas por apenas 20 aminoácidos.
+[14:000.0 - 14:005.0]  Aminoácidos são moléculas muito simples.
+[14:005.0 - 14:011.0]  Todos os 20 aminoácidos têm a mesma estrutura.
+[14:022.0 - 14:026.0]  Todos os 20 aminoácidos têm uma estrutura parecida com isso aqui.
+[14:026.0 - 14:031.0]  O que varia é o substituinte aqui nessa posição.
+[14:031.0 - 14:036.0]  Então, do ponto de vista químico, é simples.
+[14:036.0 - 14:040.0]  Se a gente for olhar componentes de membranas e de paredes,
+[14:040.0 - 14:045.0]  como os polissacarídeos, são polímeros de açúcar.
+[14:045.0 - 14:050.0]  A maior parte dos açúcares que a gente encontra em sistemas biológicos
+[14:050.0 - 14:055.0]  são açúcares de 4, 5, 6 carbonos.
+[14:055.0 - 14:058.0]  São hidratos de 4, 5, 6 carbonos.
+[14:058.0 - 15:001.0]  Ou seja, são moléculas simples.
+[15:001.0 - 15:007.0]  Então, quimicamente, os componentes básicos são moléculas pequenas e simples.
+[15:007.0 - 15:012.0]  Aí é que está a grande beleza dos sistemas biológicos.
+[15:012.0 - 15:018.0]  São sistemas extremamente organizados, altamente complexos,
+[15:018.0 - 15:024.0]  mas que são constituídos por um número pequeno de moléculas muito simples.
+[15:024.0 - 15:029.0]  E são essas reações que mantêm essa estrutura,
+[15:029.0 - 15:034.0]  utilizando essas moléculas simples, que são o interesse da bioquímica.
+[15:034.0 - 15:038.0]  E isso? Isso é simples ou é complicado?
+[15:038.0 - 15:041.0]  Alguém sabe o que é isso?
+[15:041.0 - 15:044.0]  Alguém já viu isso aqui na vida?
+[15:044.0 - 15:046.0]  É um mapa.
+[15:046.0 - 15:048.0]  Como você chama?
+[15:048.0 - 15:050.0]  A Jéssica já chutou que é um mapa.
+[15:050.0 - 15:052.0]  É um mapa do quê?
+[15:052.0 - 15:055.0]  Não é um mapa genético, é quase.
+[15:056.0 - 15:059.0]  É um mapa metabólico,
+[15:059.0 - 16:003.0]  que os alunos costumam chamar de mapa diabólico,
+[16:003.0 - 16:007.0]  porque parece o mapa do inferno mesmo.
+[16:007.0 - 16:013.0]  Cada uma dessas coisinhas mínimas que tem aqui é um composto
+[16:013.0 - 16:018.0]  e cada flechinha, que não dá nem para a gente ver as flechinhas, é uma reação.
+[16:019.0 - 16:024.0]  Tudo bem que cada um desses é um composto,
+[16:024.0 - 16:027.0]  mas em uma célula, em um organismo vivo,
+[16:027.0 - 16:031.0]  tudo isso está acontecendo ao mesmo tempo agora.
+[16:031.0 - 16:036.0]  Então, voltamos para esse conceito dual do sistema biológico,
+[16:036.0 - 16:039.0]  em que os componentes básicos são simples,
+[16:039.0 - 16:045.0]  mas a organização, a estrutura e a regulação é muito complexa.
+[16:046.0 - 16:049.0]  Então, por que eu coloquei isso aqui?
+[16:049.0 - 16:051.0]  Eu coloquei isso aqui para vocês terem uma ideia
+[16:051.0 - 16:054.0]  de como é que a gente trabalha em bioquímica.
+[16:054.0 - 16:058.0]  Vocês acham que a gente consegue pegar tudo isso aqui?
+[16:058.0 - 17:000.0]  Vamos dizer que eu quero estudar a constante...
+[17:000.0 - 17:002.0]  Vocês já estudaram a constante de equilíbrio?
+[17:002.0 - 17:005.0]  Já, então eu quero estudar a constante de equilíbrio
+[17:005.0 - 17:007.0]  dessa reaçãozinha aqui,
+[17:007.0 - 17:010.0]  desse composto para esse composto.
+[17:011.0 - 17:014.0]  Como que eu consigo estudar a constante de equilíbrio
+[17:014.0 - 17:016.0]  dessa reaçãozinha no meio de tudo isso?
+[17:016.0 - 17:018.0]  Alguém sabe me dizer?
+[17:022.0 - 17:025.0]  É praticamente impossível, não dá.
+[17:025.0 - 17:030.0]  Então, um dos enfoques que a gente usa em bioquímica
+[17:030.0 - 17:032.0]  é separar as coisas.
+[17:032.0 - 17:035.0]  Então, os bioquímicos começam a separar
+[17:035.0 - 17:038.0]  os componentes dos sistemas biológicos
+[17:038.0 - 17:043.0]  para conseguir ter a capacidade de estudar
+[17:043.0 - 17:046.0]  cada uma dessas reações individualmente.
+[17:046.0 - 17:048.0]  E estudar cada um desses componentes
+[17:048.0 - 17:051.0]  do ponto de vista estrutural individualmente
+[17:051.0 - 17:055.0]  para depois que a gente entender como que isso acontece
+[17:055.0 - 17:058.0]  a gente começar a juntar as peças tudo de novo
+[17:058.0 - 18:002.0]  e montar uma coisa, um mapa diabólico desse.
+[18:003.0 - 18:007.0]  Então isso cria dois enfoques,
+[18:007.0 - 18:009.0]  que são duas palavrinhas que vocês vão escutar bastante
+[18:009.0 - 18:012.0]  em bioquímica, que é um enfoque in vitro
+[18:012.0 - 18:016.0]  que significa literalmente no vidro
+[18:016.0 - 18:020.0]  que é esse enfoque reducionista
+[18:020.0 - 18:022.0]  em que a gente reduz o sistema
+[18:022.0 - 18:024.0]  aos mínimos componentes necessários
+[18:024.0 - 18:026.0]  para que a gente consiga estudar
+[18:026.0 - 18:029.0]  esses mínimos componentes e as reações envolvidas
+[18:029.0 - 18:032.0]  de uma maneira mais quantitativa,
+[18:032.0 - 18:035.0]  de uma maneira mais química.
+[18:035.0 - 18:038.0]  E o enfoque em vivo,
+[18:038.0 - 18:041.0]  que literalmente quer dizer em vida,
+[18:041.0 - 18:044.0]  em que a gente estuda agora propriedades
+[18:044.0 - 18:047.0]  no próprio sistema biológico.
+[18:047.0 - 18:049.0]  Então qualquer coisa que vocês escutarem em vitro
+[18:049.0 - 18:053.0]  significa um sistema reacional definido
+[18:053.0 - 18:057.0]  porque isso aqui certamente não é um sistema reacional definido.
+[18:059.0 - 19:003.0]  Bom, então o que eu acho legal,
+[19:003.0 - 19:008.0]  até agora eu estou tentando convencer vocês
+[19:008.0 - 19:012.0]  que apesar de toda essa complexidade estrutural
+[19:012.0 - 19:015.0]  e morfológica dos sistemas biológicos,
+[19:015.0 - 19:018.0]  eles são compostos, eles são constituídos
+[19:018.0 - 19:023.0]  por apenas alguns tipos de moléculas relativamente simples.
+[19:023.0 - 19:025.0]  A gente pode olhar para essas moléculas
+[19:025.0 - 19:028.0]  do mesmo jeito que vocês olham para qualquer molécula
+[19:028.0 - 19:030.0]  lá no laboratório de orgânica?
+[19:030.0 - 19:033.0]  Existe alguma diferença fundamental
+[19:033.0 - 19:038.0]  entre esse aminoácido dentro de uma célula
+[19:038.0 - 19:042.0]  e esse aminoácido sintetizado aqui no bloco 7?
+[19:044.0 - 19:045.0]  Não.
+[19:045.0 - 19:048.0]  A gente pode olhar para sistemas biológicos
+[19:048.0 - 19:051.0]  e para os constituintes dos sistemas biológicos
+[19:051.0 - 19:055.0]  como moléculas que quando são isoladas
+[19:055.0 - 19:058.0]  e examinadas individualmente,
+[19:058.0 - 20:002.0]  elas estão em conformidade com todas as leis físicas e químicas
+[20:002.0 - 20:006.0]  que descrevem o comportamento da matéria não animada.
+[20:006.0 - 20:011.0]  Todas as leis que se aplicam a moléculas não biológicas
+[20:011.0 - 20:014.0]  se aplicam a moléculas biológicas.
+[20:014.0 - 20:016.0]  É isso que é importante.
+[20:016.0 - 20:020.0]  Assim como todos os processos que ocorrem nos organismos vivos.
+[20:020.0 - 20:023.0]  Não existe nenhum processo que ocorre nos organismos vivos
+[20:023.0 - 20:027.0]  que consegue quebrar a primeira lei da termodinâmica.
+[20:028.0 - 20:031.0]  Então, um ponto muito importante
+[20:031.0 - 20:033.0]  que vocês têm que manter em mente
+[20:033.0 - 20:036.0]  sempre que vocês pensarem sobre bioquímica
+[20:036.0 - 20:038.0]  e sobre sistemas biológicos
+[20:038.0 - 20:041.0]  é que as leis que se aplicam a sistemas não biológicos
+[20:041.0 - 20:044.0]  também se aplicam a esses sistemas.
+[20:045.0 - 20:048.0]  E a gente pode tratar as moléculas da mesma maneira.
+[20:049.0 - 20:051.0]  Bom, então, como eu falei para vocês
+[20:051.0 - 20:053.0]  que são moléculas relativamente simples,
+[20:053.0 - 20:055.0]  do que elas são constituídas?
+[20:055.0 - 20:059.0]  Elas são basicamente constituídas desses quatro átomos.
+[20:059.0 - 21:004.0]  Então, 99% da massa da maioria das células que a gente conhece
+[21:004.0 - 21:008.0]  é constituída por carbono, hidrogênio, oxigênio e nitrogênio.
+[21:008.0 - 21:012.0]  Aqui nessa tabela, os autores,
+[21:012.0 - 21:015.0]  que são os autores daquele livro que eu já citei,
+[21:015.0 - 21:020.0]  eles marcaram os elementos que compõem em massa
+[21:021.0 - 21:026.0]  a maioria da massa dos organismos vivos
+[21:026.0 - 21:029.0]  e o que eles chamaram de elementos traços
+[21:029.0 - 21:032.0]  que são essenciais para a vida,
+[21:032.0 - 21:037.0]  mas que em massa têm uma contribuição muito pequena.
+[21:037.0 - 21:041.0]  E vocês vejam que não tem nenhum componente
+[21:041.0 - 21:045.0]  nem principal, nem traço,
+[21:045.0 - 21:048.0]  não tem nenhum átomo com peso molecular
+[21:048.0 - 21:051.0]  maior que 53.
+[21:051.0 - 21:054.0]  Então, os átomos que compõem os sistemas biológicos,
+[21:054.0 - 21:059.0]  eles são, na sua maioria absoluta, átomos muito pequenos.
+[22:000.0 - 22:004.0]  E não esqueçam que, de longe,
+[22:004.0 - 22:009.0]  a grande maioria do peso é nesses quatro.
+[22:018.0 - 22:022.0]  Legendas pela comunidade Amara.org
+Complete transcription result saved to: /home/ubuntu/aula01_bioquimica_transcription_20251115_051435.json
